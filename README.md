@@ -8,5 +8,5 @@ Mushroom Classification classifying the status of mushrooms. Dataset consists of
 * Classification using Principal Component Analysis for feature extraction
 
 # Content:
-
+Mushroom_Classification.ipynb 
 
